@@ -1,7 +1,3 @@
-Here’s a GitHub description for your Futoshiki puzzle solver:
-
----
-
 # Futoshiki Puzzle Solver
 
 This repository contains a Python implementation of a solver for the **Futoshiki puzzle** (also known as "More or Less" puzzle). Futoshiki is a logic-based puzzle where you fill a grid with numbers under certain constraints, including inequalities between neighboring cells.

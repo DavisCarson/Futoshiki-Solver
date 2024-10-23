@@ -26,7 +26,3 @@ The solver uses **backtracking** to explore possible number assignments for each
    python main.py
    ```
    The solver will print the solved Futoshiki grid or state that no solution was found.
-
-### Future Improvements
-- Extend to handle **larger grids** (e.g., 5x5, 6x6) with more complex inequality constraints.
-- Add a **GUI** for easier puzzle input and solution visualization.
